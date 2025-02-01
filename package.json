@@ -1,10 +1,10 @@
 {
-  "name": "UniversalTheme",
-  "displayName": "Universal Theme",
+  "name": "universal-code-themes",
+  "displayName": "Universal code Themes",
   "description": "",
-  "version": "0.0.6",
+  "version": "0.0.4",
   "icon": "Assets/Logo.png",
-  "publisher": "UniversalTheme",
+  "publisher": "Girafae",
   "scripts": {
     "g":"vsce package"
   },
@@ -30,8 +30,12 @@
         "label": "Universal White",
         "uiTheme": "vs-dark",
         "path": "./themes/White-Mode.json"
+      },
+      {
+        "label": "Super Universal White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Super-White-Mode.json"
       }
-
 
     ]
   }
