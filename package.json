@@ -1,0 +1,38 @@
+{
+  "name": "UniversalTheme",
+  "displayName": "Universal Theme",
+  "description": "",
+  "version": "0.0.6",
+  "icon": "Assets/Logo.png",
+  "publisher": "UniversalTheme",
+  "scripts": {
+    "g":"vsce package"
+  },
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Universal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Mode.json"
+      },
+      {
+        "label": "Super Universal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Super_Dark-Mode.json"
+      },
+      {
+        "label": "Universal White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/White-Mode.json"
+      }
+
+
+    ]
+  }
+}
