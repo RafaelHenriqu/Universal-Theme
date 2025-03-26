@@ -34,7 +34,7 @@ Your feedback is very important. If you have suggestions or encounter any issues
 
 ## License
 
-This theme is available under the MIT License (LICENSE).
+This theme is available under the MIT License [LICENSE](LICENSE).
 
 ---
 
