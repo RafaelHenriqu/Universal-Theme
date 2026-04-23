@@ -1,41 +1,80 @@
-# Universal Theme: Theme for Visual Studio Code
+# 🎨 Universal Theme (Visual Studio Code Theme)
 
-## Introduction
-
-Welcome to **Universal Theme**, a custom theme for Visual Studio Code! This is version 0.0.5 of the theme, launched to provide an attractive and adaptable coding visual experience. 
-
-## Available Version
-
-- **Universal-Dark**: A dark version of the theme, perfect for long programming sessions at night.
-
-## Contributions
-
-If you want to modify the theme or even create your own version, feel free to do so! The code is fully accessible for all developers who wish to customize it or contribute improvements.
-
-## How to Install
-
-To install the Universal Theme theme, follow these steps:
-
-1. Open Visual Studio Code.
-2. Go to the Extensions tab (or press `Ctrl+Shift+X`).
-3. Search for `Universal Theme` in the search bar.
-4. Click **Install** on the desired extension (Universal Theme).
-
-## How to Use
-
-After installation, you can activate the theme by navigating to:
-
-1. Go to **File** > **Preferences** > **Color Theme**.
-2. Select **Universal-Dark** from the list.
-
-## Feedback
-
-Your feedback is very important. If you have suggestions or encounter any issues, feel free to open an issue in the repository.
-
-## License
-
-This theme is available under the MIT License [LICENSE](LICENSE).
+> 🚫 Projeto descontinuado como desenvolvimento ativo.
 
 ---
 
-Thank you for using Universal Theme! I hope you enjoy the theme and have a wonderful coding experience!
+## 📌 Status do projeto
+
+O Universal Theme não recebe mais atualizações ou novas versões.
+
+Apesar disso, o tema continua disponível para download e uso normalmente.
+
+---
+
+## 🎯 Sobre o projeto
+
+O Universal Theme foi criado como um **tema personalizado para o Visual Studio Code**, com foco em:
+
+* Visual limpo
+* Estética agradável aos olhos
+* Conforto durante longas sessões de programação
+
+A ideia inicial do projeto era simples: criar um tema próprio para uso pessoal.
+
+---
+
+## 🌙 Versão disponível
+
+* **Universal-Dark** → versão escura do tema, pensada para uso em ambientes com pouca luz e sessões prolongadas de código.
+
+---
+
+## 🧠 Contexto do projeto
+
+Este projeto foi desenvolvido em pouco tempo, no início da minha jornada como desenvolvedor.
+
+Ele nasceu de uma necessidade pessoal: ter um tema próprio no VS Code.
+
+Mais tarde, o projeto foi publicado como extensão para outras pessoas também poderem usar.
+
+Mesmo sendo algo simples, foi importante como primeiro contato com criação de extensões e publicação de projetos.
+
+---
+
+## 📂 Arquivos do tema
+
+Você pode acessar os temas aqui:
+
+https://github.com/RafaelHenriqu/Universal-Theme/tree/main/themes
+
+---
+
+## ⚠️ Observações
+
+* Este projeto está descontinuado
+* Não haverá novas versões ou melhorias
+* O tema ainda pode ser baixado e utilizado normalmente
+* Foi criado de forma simples e rápida, com foco em estética e uso pessoal
+
+---
+
+## 🎨 Sobre a criação
+
+O projeto começou com apenas uma ideia pessoal, mas acabou evoluindo para algo publicado.
+
+Foram criados mais de um tema, mesmo eu utilizando apenas um no dia a dia, pois a ideia inicial era explorar possibilidades e estilos visuais diferentes.
+
+---
+
+## 💻 Uso atual
+
+Mesmo após o fim do desenvolvimento, o tema ainda é utilizado até hoje no meu ambiente de programação.
+
+---
+
+## 🧭 Consideração final
+
+O Universal Theme representa um projeto simples, mas importante na minha evolução — principalmente por ter sido uma das primeiras experiências com criação de algo “pronto para uso público”.
+
+---
